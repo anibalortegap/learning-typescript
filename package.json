@@ -19,12 +19,12 @@
   "homepage": "https://github.com/anibalortegap/learning-typescript#readme",
   "dependencies": {
     "typescript": "^3.6.3",
-    "webpack": "^4.40.2",
+    "webpack": "^5.75.0",
     "webpack-dev-server": "^3.8.1"
   },
   "devDependencies": {
-    "ts-loader": "^6.1.2",
-    "css-loader": "^3.2.0",
-    "webpack-cli": "^3.3.9"
+    "ts-loader": "^9.4.2",
+    "css-loader": "^6.7.3",
+    "webpack-cli": "^5.0.1"
   }
 }
